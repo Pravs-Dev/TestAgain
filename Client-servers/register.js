@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://backend2077.azurewebsites.net/api';
+const API_BASE_URL = 'https://backendtest-bkgka6fwgqatemcj.southafricanorth-01.azurewebsites.net/api';
 
 
 
